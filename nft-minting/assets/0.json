@@ -1,0 +1,57 @@
+{
+    "name":"test NFT",
+    "description":"Mint NFT's using Candy",
+    "image":"image.png",
+    "date": 633885941000,
+    "symbol": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+        "name": " NFT Collection",
+        "family": "Familia"
+      },
+     "properties": {
+        "files": [
+          {
+            "url": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "lol",
+            "share": 100
+          }
+        ]
+      },
+     "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Eyeball",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Eye color",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Iris",
+          "value": "Small"
+        },
+        {
+          "trait_type": "Shine",
+          "value": "Shapes"
+        },
+        {
+          "trait_type": "Bottom lid",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Top lid",
+          "value": "Middle"
+        }
+      ]
+ }
